@@ -1,0 +1,41 @@
+{
+  "extensionName": {
+    "message": "Random Email Generator"
+  },
+  "extensionDescription": {
+    "message": "Generate and insert random email addresses with right-click"
+  },
+  "domainLabel": {
+    "message": "Email Domain"
+  },
+  "domainHint": {
+    "message": "Example: example.com, gmail.com, etc."
+  },
+  "formatLabel": {
+    "message": "Email Format"
+  },
+  "randomDescription": {
+    "message": "Random string (e.g., a7b2c9d3)"
+  },
+  "wordsDescription": {
+    "message": "Word combination (e.g., apple_banana)"
+  },
+  "stringLengthLabel": {
+    "message": "String Length"
+  },
+  "patternLabel": {
+    "message": "Pattern:"
+  },
+  "patternHint": {
+    "message": "Example: {word}_{word}, {word}-{word}-{word} ({word} will be replaced with random words)"
+  },
+  "saveButton": {
+    "message": "Save"
+  },
+  "savedMessage": {
+    "message": "Settings have been saved!"
+  },
+  "insertRandomEmail": {
+    "message": "Insert Random Email"
+  }
+}

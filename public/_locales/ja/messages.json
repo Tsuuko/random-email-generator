@@ -1,0 +1,41 @@
+{
+  "extensionName": {
+    "message": "ランダムメールジェネレーター"
+  },
+  "extensionDescription": {
+    "message": "右クリックでランダムなメールアドレスをフォームに挿入します"
+  },
+  "domainLabel": {
+    "message": "メールアドレスのドメイン"
+  },
+  "domainHint": {
+    "message": "例：example.com、gmail.com など"
+  },
+  "formatLabel": {
+    "message": "メールアドレスの形式"
+  },
+  "randomDescription": {
+    "message": "ランダム文字列（例：a7b2c9d3）"
+  },
+  "wordsDescription": {
+    "message": "単語の組み合わせ（例：apple_banana）"
+  },
+  "stringLengthLabel": {
+    "message": "文字列の長さ"
+  },
+  "patternLabel": {
+    "message": "パターン:"
+  },
+  "patternHint": {
+    "message": "例：{word}_{word}、{word}-{word}-{word}（{word}がランダムな単語に置き換えられます）"
+  },
+  "saveButton": {
+    "message": "保存"
+  },
+  "savedMessage": {
+    "message": "設定が保存されました！"
+  },
+  "insertRandomEmail": {
+    "message": "ランダムなメールアドレスを挿入"
+  }
+}
